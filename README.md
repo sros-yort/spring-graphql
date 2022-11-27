@@ -1,1 +1,1 @@
-# Spring graphql
+# Spring GraphQL
